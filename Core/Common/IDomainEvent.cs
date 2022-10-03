@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace Core.SeedWork;
+namespace Core.Common;
 
 public interface IDomainEvent : INotification
 {

@@ -8,9 +8,6 @@
 
     <ItemGroup>
       <Folder Include="Abstructions" />
-      <Folder Include="Configuration\Data" />
-      <Folder Include="Configuration\Emails" />
-      <Folder Include="Configuration\Processing" />
       <Folder Include="Exceptions" />
       <Folder Include="Extensions" />
       <Folder Include="Features" />

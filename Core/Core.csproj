@@ -7,11 +7,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Common" />
       <Folder Include="Domain" />
       <Folder Include="Enums" />
       <Folder Include="Exceptions" />
-      <Folder Include="ValueObjects" />
     </ItemGroup>
 
     <ItemGroup>

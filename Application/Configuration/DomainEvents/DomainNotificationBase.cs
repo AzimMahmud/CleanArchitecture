@@ -1,5 +1,5 @@
 ﻿using System.Text.Json.Serialization;
-using Core.SeedWork;
+using Core.Common;
 
 namespace Application.Configuration.DomainEvents;
 
