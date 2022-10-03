@@ -6,4 +6,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Caching" />
+      <Folder Include="Database" />
+      <Folder Include="Logging" />
+      <Folder Include="Processing" />
+      <Folder Include="SeedWork" />
+    </ItemGroup>
+
 </Project>
