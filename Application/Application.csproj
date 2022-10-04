@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <Folder Include="Abstructions" />
+      <Folder Include="Configuration\Data" />
       <Folder Include="Exceptions" />
       <Folder Include="Extensions" />
       <Folder Include="Features" />
